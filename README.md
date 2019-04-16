@@ -8,3 +8,6 @@ In this project, we performed a freeway operational data analysis using the free
 This project consists of two main parts:
 - bottleneck identification
 - analysis of corridor traffic performance.
+
+
+![alt text](poster.jpg)
